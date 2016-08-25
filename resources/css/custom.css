@@ -1,0 +1,24 @@
+/* ==== Custom styles === */
+
+#body
+{
+	background-color: #5171A5;
+}
+/* Search box */
+#search_box
+{
+	padding-top: 100px;
+}
+
+.panel 
+{
+    border: none;
+}
+
+.form-control {
+    border-radius: 0px;
+}
+
+.btn {
+    border-radius: 0px;
+}
