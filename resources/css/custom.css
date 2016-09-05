@@ -1,13 +1,8 @@
 /* ==== Custom styles === */
-
-#body
-{
-	background-color: #5171A5;
-}
 /* Search box */
 #search_box
 {
-	padding-top: 100px;
+	margin-top: 100px;
 }
 
 .panel 
@@ -21,4 +16,6 @@
 
 .btn {
     border-radius: 0px;
+}
+body {
 }
